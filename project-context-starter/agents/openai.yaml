@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Context Starter"
+  short_description: "Set up clean project context and memory rules"
+  default_prompt: "Use $project-context-starter to set up clean project context, documentation layers, and long-term memory rules for this project."
