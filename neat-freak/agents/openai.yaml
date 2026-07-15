@@ -1,0 +1,4 @@
+interface:
+  display_name: "neat-freak.5.6soi时代适配版"
+  short_description: "阶段收尾时审计并对齐项目规则、文档、接口与长期知识"
+  default_prompt: "Use $neat-freak to reconcile durable project rules and affected documentation after this milestone without editing generated Codex Memories."
