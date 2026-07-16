@@ -6,7 +6,7 @@
 
 | 信息 | 主位置 | 不应放在 |
 |---|---|---|
-| 必须遵守的工程约束、验证命令、红线 | `AGENTS.md` / `CLAUDE.md` | changelog、Memory 唯一副本 |
+| 必须遵守的工程约束、验证命令、红线 | 适用的 `AGENTS.md` 或已配置 fallback | changelog、Memory 唯一副本 |
 | 项目目的、安装和最短启动路径 | `README.md` | 全局 Agent 规则 |
 | 架构、数据流、接口、运维和接入说明 | 对应 `docs/` | 规则文件全文复制 |
 | 已确认的长期设计决定及理由 | ADR / `docs/decisions.md` | 临时任务摘要 |
