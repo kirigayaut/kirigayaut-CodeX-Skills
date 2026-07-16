@@ -15,7 +15,7 @@ Personal Agent Skills for clean project context, memory hygiene, and reusable Co
 | Skill | Purpose | When to use |
 | --- | --- | --- |
 | [project-context-starter](./project-context-starter/SKILL.md) | Establish the minimum source-of-truth map for a project. | Start or join a project, repair its entry flow, or define AGENTS/README/docs boundaries. |
-| [neat-freak.5.6soi时代适配版](./neat-freak/SKILL.md) | Audit and reconcile durable project knowledge. | Run at a milestone, release, formal handoff, or confirmed multi-layer documentation drift. |
+| [Neat Freak](./neat-freak/SKILL.md) | Audit and reconcile durable project guidance. | Run at a milestone, release, formal handoff, or confirmed multi-file documentation drift. |
 
 ## Install
 
@@ -42,13 +42,13 @@ Good triggers:
 
 - `Use $project-context-starter to set up clean project context for this project.`
 - `Start this repo with clean AGENTS/docs/memory rules.`
-- `Help me prepare this project so future threads have durable context.`
+- `Help me prepare this project so future tasks have durable context.`
 
-## neat-freak.5.6soi时代适配版
+## Neat Freak
 
-The user-facing name is `neat-freak.5.6soi时代适配版`; the stable technical ID remains `neat-freak` for compatibility with existing invocations and project references.
+The stable technical ID and invocation remain `neat-freak` and `$neat-freak`.
 
-This edition treats large context windows, compaction, and Codex Memories as continuity aids rather than project authorities. It defaults to a change-scoped audit and expands to a full project review only for releases, formal handoffs, broad drift, or explicit requests.
+The skill is maintained against current Codex behavior instead of carrying a model-version suffix. It treats task compaction and Memories as context aids rather than project authorities, defaults to a change-scoped audit, and expands only for releases, formal handoffs, broad drift, or explicit requests.
 
 Good triggers:
 
@@ -58,7 +58,7 @@ Good triggers:
 
 Non-triggers:
 
-- Context is merely approaching auto-compaction.
+- Context is merely approaching automatic compaction.
 - Ordinary Q&A or unfinished debugging.
 - A one-file typo or simple progress checkpoint.
 
