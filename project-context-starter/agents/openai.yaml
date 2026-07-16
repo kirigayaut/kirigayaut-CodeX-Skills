@@ -1,4 +1,4 @@
 interface:
   display_name: "Project Context Starter"
   short_description: "Set project knowledge authorities and future-task read order"
-  default_prompt: "Use $project-context-starter to establish the minimum project knowledge layers, source-of-truth map, and future-task read order."
+  default_prompt: "Use $project-context-starter to establish the minimum project guidance layers, source-of-truth map, and future-task read order."
